@@ -168,7 +168,7 @@
     {
         "class": "tab_label",
         "attributes": ["transient"],
-        "font.italic": true
+        "font.italic": false
     },
 
     // Tab Labels font size
@@ -532,7 +532,7 @@
     {
         "class": "sidebar_label",
         "settings": ["spacegray_sidebar_font_xlarge"],
-        "font.size": 14.0
+        "font.size": 16.0
     },
     // Sidebar folder entry
     {
